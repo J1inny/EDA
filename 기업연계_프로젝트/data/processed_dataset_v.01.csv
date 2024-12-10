@@ -1,0 +1,239 @@
+,대화 상황,학년,대화
+0,장래 희망에 대한 대화,md1,"A: I’m interested in flying airplanes. B: Do you want to be a pilot? A: Yes, I do. How about you? B: I want to be a fashion designer"
+1,책에 대한 대화,md1,A: What do you think about this book? B: A History of Black Holes? I think it’ll be difficult. A: I don’t agree I think it’ll be very interesting B: Hmm . . . I didn’t know you were interested in black holes.
+2,대회 우승을 축하하는 대화,md1,"B: You know what? My team won the soccer tournament. W: Congratulations, Minsu! I’m really happy for you. B: Thanks, Ms. Kim. I’m really happy"
+3,방학 계획에 대한 대화,md1,"B: Do you have any plans for this summer vacation? G: Yes. I’m going to travel to Venice with my family. B: That’s awesome! What are you going to do there G: A lot of things, but we’re going to ride a gondola for sure."
+4,요리에 대한 대화,md1,B: What do you think about this pasta? G: I think it’s pretty good. B: I don’t think so I think it’s too salty. G: Really? It’s OK for me.
+5,핸드폰 중독에 대한 대화,hi1,"A: Stella, have you noticed how much time you spend on your phone every day? B: Yeah, Liam. I can’t put it down. A: It’s not healthy to spend so much time staring at a screen. Why don’t you try putting your phone away for an hour each day? B: I’ll try, but I’m worried I’ll get bored."
+6,배구 대회에 대한 대화,hi1,"A: Did you hear about the volleyball championship game tonight? B: No, I haven’t. Who’s playing? A: The Avengers are playing the Hurricanes. B: Really? I’m surprised that the Avengers are in the championship game. A: I know. They were the worst team last year. I believe this is going to be one interesting game."
+7,영화 티켓 가격에 대한 대화,hi1,"A: Movie tickets are so expensive these days. B: That’s true, but certain movies are worth the price. For example, the special effects feel more realistic when we watch 4D movies in theaters. A: Hmm. That’s a good point"
+8,여행에 대한 대화,hi1,A: Are you interested in traveling around the world B: Yes. I’d like to explore different cultures and try new things. A: Which country would you like to visit the most? B: I’ve always wanted to visit Morocco.
+9,동참을 제안하는 대화,md1,"G: My friends and I are going to go to Yangyang this weekend. B: Yangyang is great for surfing. Are you going to surf? G: Yes, we’re going to learn surfing. I’m excited about it."
+10,동참을 제안하는 대화,md1,"G: My friends and I are going to go to Yangyang this weekend. B: Yangyang is great for surfing. Are you going to surf? G: Yes, we’re going to learn surfing. I’m really looking forward to it."
+11,핸드폰 구매에 대한 대화,md1,"G: My phone is not working. I need to get a new one. B: Look! Here are the new models. How about this one? G: Wow, I like it. It’s very light. B: I agree. It’s lighter than mine."
+12,핸드폰 구매에 대한 대화,md1,"G: My phone is not working. I need to get a new one. B: Look! Here are the new models. How do you feel about this one? G: Wow, I like it. It’s very light. B: I agree. It’s lighter than mine."
+13,핸드폰 구매에 대한 대화,md1,"G: My phone is not working. I need to get a new one. B: Look! Here are the new models. What do you think about this one? G: Wow, I like it. It’s very light. B: I agree. It’s lighter than mine."
+14,교실 공지판 제작에 대한 대화,hi1,"A: Hi, Aiden. What are you doing? B: I'm creating a notice board for the classroom. Do you have any advice? A: Be sure not to make the text too small. Students need to be able to read it from a distance. B: Yeah, I'll have to make it bigger. Thanks."
+15,교실 공지판 제작에 대한 대화,hi1,"A: Hi, Aiden. What are you doing? B: I'm creating a notice board for the classroom. Do you have any advice? A: You shouldn’t make the text too small. Students need to be able to read it from a distance. B: Yeah, I'll have to make it bigger. Thanks."
+16,교실 공지판 제작에 대한 대화,hi1,"A: Hi, Aiden. What are you doing? B: I'm creating a notice board for the classroom. Do you have any advice? A: Be careful not to make the text too small. Students need to be able to read it from a distance. B: Yeah, I'll have to make it bigger. Thanks."
+17,교실 공지판 제작에 대한 대화,hi1,"A: Hi, Aiden. What are you doing? B: I'm creating a notice board for the classroom. Do you have any advice? A: Make sure you don’t make the text too small. Students need to be able to read it from a distance. B: Yeah, I'll have to make it bigger. Thanks."
+18,좋아하는 과목에 대한 대화,md1,"Jiho: I like science. Do you like science? Lucy: No, I don’t. I like math."
+19,어제 한 일에 대한 대화,md1,"A: I had a good time yesterday. B: You went to the mall, right? A: Yes, my mom and I ate delicious food. B: Did you watch a movie? A: No, we didn’t watch a movie."
+20,여름 계획에 대한 대화,md1,A: What will you do this summer? B: I'll join the music festival
+21,취침 시간에 대한 대화,md1,"A: Can I watch TV? B: Sorry, you can't It's time for bed."
+22,일정이나 바쁜 상황에 대한 대화,md1,"A: I'm sorry, but I can't. I'm busy now"
+23,캥거루에 대한 대화,md1,"A: Do you know anything about kangaroos? B: Yes, I do. They can jump high"
+24,지구 환경 보호에 대한 대화,md1,A: What can we do for the Earth? B: We can turn off the light
+25,소지품에 대한 대화,md1,"A: Is this your mom’s bag?  B: Yes, it is. It’s hers."
+26,친구들과의 여가 활동에 대한 대화,md1,A: What did you do yesterday B: I played soccer with my friends.
+27,전시물에 대한 규칙에 대한 대화,md1,"G: Excuse me. May I touch this golden bear? M: No, you may not You must not touch anything in this room. G: OK, I understand."
+28,실내 환경 조절에 대한 대화,md1,"W: Excuse me, but can you please close the door? The air conditioner is on. B: Oh, I didn’t know that. I’ll close it right away. W: Thanks."
+29,실내 환경 조절에 대한 대화,md1,"W: Excuse me, but can you please close the door? The air conditioner is on. B: Oh, I didn’t know that. I’ll close it right away. W: Thanks."
+30,작곡에 대한 대화,md1,"G: What’s this music, Hojin? It’s awesome. B: I’m writing a song with this computer program. G: You’re very good. Do you want to be a songwriter B: Yes, I’m really interested in writing songs."
+31,대회 우승을 축하하는 대화,md1,"B: You know what? My team won the soccer tournament. W: Congratulations, Minsu! I’m really happy for you. B: Thanks, Ms. Kim. I’m really happy"
+32,건강 문제에 대한 대화,md1,A: I have a fever. B: Take this medicine
+33,건강 문제에 대한 대화,md1,A: What's wrong? B: I have a headache
+34,명령과 응답에 대한 대화,md1,"A: Stand up, please. B: Okay"
+35,친구 간의 부탁에 대한 대화,md1,A: Can you do me a favor? B: No problem
+36,음식 주문에 대한 대화,md1,A: May I take your order? B: I'd like a chicken salad
+37,모자에 대한 대화,md1,A: What would you like to try? B: I'd like to try a hat
+38,흥미로운 주제에 대한 의견 교환,md1,A: It looks interesting. What do you think? B: I think so
+39,수학에 대한 의견 교환,md1,A: What do you think about Math? B: I think it's hard
+40,주제: 주말 활동에 대한 대화,md1,A: What did you do last weekend? B: I swam at the beach
+41,주말 계획에 대한 대화,hi1,A: What are you going to do this weekend? B: I’m planning to go to a concert on Saturday. A: That’s great!
+42,축구 클럽 가입에 대한 대화,hi1,A: Why don't you join a soccer club with me? B: It sounds great. I'd love to join you.
+43,영화 관람 경험에 대한 대화,hi1,"A: I wonder why so many people still go to movie theaters  We can enjoy movies at home. B: Well, you can’t experience the big screen and surround sound at home."
+44,영화 관람 경험에 대한 대화,hi1,B: Watching a movie with an audience in a theater makes it more exciting.  Don’t you agree A: You’re right. Maybe I’ll pay a visit to a theater soon.
+45,수영 경력에 대한 대화,hi1,"A: Minjun, congratulations on winning the swimming competition! B: Thank you. It was a close race. A: So what are you planning to do next in your swimming career? B: I’m planning to train harder and try for the state championship"
+46,영감을 주는 대화,hi1,"A: That's impressive. You have many young fans who want to be like you.?? ? ?Any words for them??B: Keep at it and you will succeed. A: Thanks, Minjun. Good luck with your training!"
+47,여행지 선택에 대한 대화,hi1,"A: Which country would you like to visit the most? B: I’ve always wanted to visit Morocco. A: Oh, I’ve never thought of visiting Morocco. I don’t know much about the country. B: Neither do I. But if I ever get the chance to visit Morocco, I’ll make sure to do some research before going there I think it’s important to understand the local culture before traveling."
+48,여행과 문화 이해에 대한 대화,hi1,"B: I think it’s important to understand the local culture before traveling. A: I totally agree with you. I hope you get to visit Morocco someday B Thank you, I hope so too."
+49,배달 음식과 요리에 대한 대화,hi1,A: I order delivery food almost every day. B: It seems to me that you don’t cook enough at home How come? A: It’s because I’m too tired these days.
+50,식사 준비와 배달 서비스에 대한 대화,hi1,A: I’m too tired to cook these days. B: That’s understandable  But make sure you don’t rely on delivery services too much.
+51,영화 관람에 대한 대화,hi1,A: Hey Julie. I saw you at the shopping center yesterday. What were you doing there? B: I was there to watch a movie with my family
+52,영화에 대한 대화,hi1,"A: Oh, what did you watch? B: The Supers. Have you seen it? A: Yes. I thought it was good, but I was surprised that it had such a low rating"
+53,영화에 대한 대화,hi1,B: Some parts of the movie were pretty boring.  I believe that the movie would have been better if it were shorter A: You’ve got a point.
+54,수업 중 물을 마시는 것에 대한 대화,md1,"A: May I drink water in class? B: Yes, you may"
+55,가위 대여에 대한 대화,md1,"A: Can I borrow your scissors? B: Sure, you can. Here you go"
+56,장래 희망에 대한 대화,md1,A: What do you want to be in the future? B: I want to be a tennis player
+57,대회 우승을 축하하는 대화,md1,"B: You know what? My team won the soccer tournament. W: Congratulations, Minsu! I’m really happy for you. B: Thanks, Ms. Kim. I’m really happy"
+58,전시물에 대한 관람 규칙에 대한 대화,md1,"G: Excuse me. May I touch this golden bear? M: No, you may not You must not touch anything in this room. G: OK, I understand."
+59,전시물에 대한 관람 규칙에 대한 대화,md1,"G: Excuse me. May I touch this golden bear? M: No, you may not You must not touch anything in this room. G: OK, I understand."
+60,건강 회복에 대한 대화,md1,"A: How do you feel? Still sick? B: Not at all. I feel all right, just like magic."
+61,일상적인 생활 습관에 대한 대화,md1,A: What time do you get up? B: I get up at 6
+62,운동 습관에 대한 대화,md1,A: How often do you exercise? B: Five times a week
+63,노래 대회에 대한 대화,md1,A: You look worried. Why are you worried? B: I have a singing contest
+64,새로운 휴대폰에 대한 대화,md1,A: I got a new cell phone. B: I'm happy for you
+65,도움 요청에 대한 대화,md1,"A: Can you help me? B: Sorry, I can't"
+66,창작의 영감에 대한 대화,hi1,"A: As a content creator, you seem to have so many ideas for your videos. I'm curious about where your creativity comes from. B: I would say it comes from reading books! Reading is like an adventure, and it helps me come up with creative ideas."
+67,창작과 창의성에 대한 대화,hi1,"A: As a content creator, you seem to have so many ideas for your videos. I wonder where your creativity comes from. B: I would say it comes from reading books! Reading is like an adventure, and it helps me come up with creative ideas."
+68,시간 관리에 대한 대화,hi1,A: I’m not very good at managing my time. B: What are you doing to overcome it? A: I’m making a to-do list. It helps me organize my work and get things done on time. B: That’s wonderful. I’m glad to hear that
+69,성공을 위한 노력과 연습에 대한 대화,hi1,A: That’s impressive. You have many young fans who want to be like you. Any words for them? B: I’d like to emphasize that consistent practice is key Keep at it and you will succeed.
+70,음식 배달 서비스에 대한 대화,hi1,A: I don’t think I could live without food delivery services. B: I have to admit they’re really convenient.  How often do you order delivery food A: Almost every day.
+71,주말 계획에 대한 대화,hi1,A: What are you going to do this weekend? B: I’m planning to go to a concert on Saturday. A: That’s great!
+72,요가 수업 참여에 대한 대화,hi1,"A: Are you interested in joining this yoga class? B: I've thought about it, but I'm not sure whether it's for me."
+73,요가 수업 참여에 대한 대화,hi1,"A: Are you interested in joining this yoga class? B: Sure, I’d love to! When and where will it be held"
+74,프로젝트에 대한 협력과 감사의 대화,hi1,A: I really appreciate your help with the project. B: No problem. I’m happy to help out
+75,조언에 대한 대화,hi1,A: Thank you for your advice. B: No problem. I‘m glad to help out.
+76,조언에 대한 대화,hi1,A: Thank you for your advice. B: No problem. I’m glad to help out
+77,주말 계획에 대한 대화,md1,A: What are you going to do this weekend? B: I'm going to see a movie
+78,소개 및 인사에 대한 대화,el6,"A: This is my brother, Mike. B: Nice to meet you. C: Nice to meet you, too."
+79,영어에 대한 대화,md1,"A: I like English. Do you like English? B: Yes, I do"
+80,휴가에 대한 대화,md1,A: How was your vacation? B: It was great
+81,문을 여는 부탁에 대한 대화,md1,A: Can you do me a favor B: Sure. What is it? A: Can you open the door?
+82,요가 수업 참여에 대한 대화,hi1,"A: Are you interested in joining this yoga class? B: I've thought about it, but I'm not sure whether it's for me"
+83,일상적인 안부 인사에 대한 대화,md1,A: How's it going? B: Pretty good
+84,사진 촬영에 대한 대화,md1,A: Can I take a picture? B: Of course
+85,요일에 대한 대화,md1,A: What day is it today?  B: It’s Sunday.
+86,직업에 대한 대화,md1,"A: Is he a cook? B: No, he isn't He's a firefighter."
+87,음료 선택에 대한 대화,md1,A: Coke or juice? B: Both are OK. I don’t mind.
+88,요일에 대한 대화,md1,A: What day is it today? B: It’s Monday.
+89,인사와 만남에 대한 대화,md1,"A: Nice to meet you. B: Nice to meet you, too"
+90,학년 및 학교 생활에 대한 대화,md1,A: What grade are you in? B: I'm in the sixth grade
+91,장래 희망에 대한 대화,md1,A: What do you want to be? B: I want to be a comedian
+92,의견에 대한 대화,md1,A: What do you think? B: I think it's good
+93,로봇에 대한 관심에 대한 대화,md1,A: What are you interested in? B: I'm interested in robots
+94,박물관 방문에 대한 대화,md1,A: What are you going to do tomorrow? B: I'm going to visit the museum
+95,주말 계획에 대한 대화,md1,A: What are you going to do this weekend? B: I'm going to ride my bike
+96,창작과 창의성에 대한 대화,hi1,"A: As a content creator, you seem to have so many ideas for your videos. I wonder where your creativity comes from. B: I would say it comes from reading books! Reading is like an adventure, and it helps me come up with creative ideas."
+97,교실 공지판 제작에 대한 대화,hi1,"A: Hi, Aiden. What are you doing? B: I'm creating a notice board for the classroom. Do you have any advice? A: Make sure you don’t make the text too small. Students need to be able to read it from a distance. B: Yeah, I'll have to make it bigger. Thanks."
+98,위치에 대한 대화,md1,A: Where's Tina? B. She's in the kitchen
+99,이름에 대한 대화,md1,A: What's your name? B: My name is Kevin
+100,과일에 대한 대화,md1,"A: Do you want some fruit? B: No, thanks"
+101,여름 방학에 대한 대화,md1,A: Summer vacation is coming. B: I can't wait!
+102,직업에 대한 대화,md1,A: What does she do? B: She's a doctor
+103,공놀이에 대한 대화,md1,"A: Catch the ball, please. B: Sure"
+104,음식 주문에 대한 대화,md1,A: May I take your order? B: I'd like fried rice
+105,모자에 대한 대화,md1,A: How about this hat? B: That sounds good!
+106,영화 관람에 대한 대화,md1,A: What did you do yesterday? B: I watched a movie
+107,VR 게임에 대한 대화,md1,"A: What are you doing here, Mina? B: I’m playing VR tennis. A: That’s awesome! How often do you play? B: I play twice a week"
+108,실내 환경 조절에 대한 대화,md1,"W: Excuse me, but can you please close the door? The air conditioner is on. B: Oh, I didn’t know that. I’ll close it right away. W: Thanks."
+109,서핑 배우기에 대한 대화,md1,"G: My friends and I are going to go to Yangyang this weekend. B: Yangyang is great for surfing. Are you going to surf? G: Yes, we’re going to learn surfing. I’m excited about it."
+110,서핑 배우러 가는 계획에 대한 대화,md1,"G: My friends and I are going to go to Yangyang this weekend. B: Yangyang is great for surfing. Are you going to surf? G: Yes, we’re going to learn surfing. I can’t wait."
+111,서핑 배우러 가는 계획에 대한 대화,md1,"G: My friends and I are going to go to Yangyang this weekend. B: Yangyang is great for surfing. Are you going to surf? G: Yes, we’re going to learn surfing. I’m really looking forward to it."
+112,새로운 스마트폰 모델에 대한 대화,md1,"G: My phone is not working. I need to get a new one. B: Look! Here are the new models. How about this one? G: Wow, I like it. It’s very light. B: I agree. It’s lighter than mine."
+113,새로운 스마트폰 모델에 대한 대화,md1,"G: My phone is not working. I need to get a new one. B: Look! Here are the new models. How do you feel about this one? G: Wow, I like it. It’s very light. B: I agree. It’s lighter than mine."
+114,새로운 스마트폰 모델에 대한 대화,md1,"G: My phone is not working. I need to get a new one. B: Look! Here are the new models. What do you think about this one? G: Wow, I like it. It’s very light. B: I agree. It’s lighter than mine."
+115,새로운 스마트폰 모델에 대한 대화,md1,"G: My phone is not working. I need to get a new one. B: Look! Here are the new models. Don’t you think this is cool? G: Wow, I like it. It’s very light. B: I agree. It’s lighter than mine."
+116,교실 공지판 제작에 대한 대화,hi1,"A: Hi, Aiden. What are you doing? B: I'm creating a notice board for the classroom. Do you have any advice? A: Be sure not to make the text too small. Students need to be able to read it from a distance. B: Yeah, I'll have to make it bigger. Thanks."
+117,교실 공지판 제작에 대한 대화,hi1,"A: Hi, Aiden. What are you doing? B: I'm creating a notice board for the classroom. Do you have any advice? A: Be careful not to make the text too small. Students need to be able to read it from a distance. B: Yeah, I'll have to make it bigger. Thanks."
+118,교실 공지판 제작에 대한 대화,hi1,"A: Hi, Aiden. What are you doing? B: I'm creating a notice board for the classroom. Do you have any advice? A: Take care not to make the text too small. Students need to be able to read it from a distance. B: Yeah, I'll have to make it bigger. Thanks."
+119,교실 공지판 제작에 대한 대화,hi1,"A: Hi, Aiden. What are you doing? B: I'm creating a notice board for the classroom. Do you have any advice? A: Make sure you don’t make the text too small. Students need to be able to read it from a distance. B: Yeah, I'll have to make it bigger. Thanks."
+120,여행에 대한 대화,hi1,A: Which country do you want to visit? B: I'd like to visit Italy.
+121,여행에 대한 대화,hi1,A: Which country do you want to visit? B: I want to visit Italy.
+122,새로운 스마트폰 모델에 대한 대화,md1,"G: My phone is not working. I need to get a new one. B: Look! Here are the new models. How about this one? G: Wow, I like it. It’s very light. B: I agree. It’s lighter than mine."
+123,새로운 스마트폰 모델에 대한 대화,md1,"G: My phone is not working. I need to get a new one. B: Look! Here are the new models. How do you feel about this one? G: Wow, I like it. It’s very light. B: I agree. It’s lighter than mine."
+124,새로운 스마트폰 모델에 대한 대화,md1,"G: My phone is not working. I need to get a new one. B: Look! Here are the new models. What do you think about this one? G: Wow, I like it. It’s very light. B: I agree. It’s lighter than mine."
+125,물 관리에 대한 대화,md1,W: Look. Somebody forgot to turn off the water. B: Again? People are so forgetful. W: I know. Can you run over there and turn off the water? B: Sure. No problem.
+126,물 낭비에 대한 대화,md1,"W: Look. Somebody forgot to turn off the water. B: Again? People are so forgetful. W: I know. Can you run over there and turn off the water? B: Yes, I can do that."
+127,물 낭비에 대한 대화,md1,"W: Look. Somebody forgot to turn off the water. B: Again? People are so forgetful. W: I know. Can you run over there and turn off the water? B: I’m sorry, but I can’t."
+128,콘서트에 대한 대화,md1,"G: What’s up, Jamie? You look excited. B: I got a ticket to the BM concert next month. I’m so excited. G: That’s great."
+129,콘서트 참석에 대한 대화,md1,"G: What’s up, Jamie? You look excited. B: I got a ticket to the BM concert next month. I’m so excited. G: I’m happy for you."
+130,콘서트에 대한 대화,md1,"G: What’s up, Jamie? You look excited. B: I got a ticket to the BM concert next month. I’m so excited. G: That’s really good news."
+131,축구 클럽 가입에 대한 대화,hi1,A: How about joining a soccer club with me? B: It sounds great. I'd love to join you.
+132,축구 클럽 가입에 대한 대화,hi1,A: Why don't you join a soccer club with me? B: It sounds great. I'd love to join you.
+133,축구 클럽 가입에 대한 대화,hi1,A: Would you like to join a soccer club with me? B: It sounds great. I'd love to join you.
+134,축구 클럽 가입에 대한 대화,hi1,A: What do you think about joining a soccer club with me? B: It sounds great. I'd love to join you.
+135,노트 대여에 대한 대화,hi1,"A: Thanks for lending me your notes. B: Don't mention it, anytime."
+136,노트 대여에 대한 대화,hi1,A: Thanks for lending me your notes. B: It's nothing. I’m happy to help.
+137,노트 대여에 대한 대화,hi1,A: Thanks for lending me your notes. B: Sure. I’m always happy to lend a hand.
+138,노트 대여에 대한 대화,hi1,A: Thanks for lending me your notes. B: No problem. I’m glad you found them useful.
+139,감사와 지원에 대한 대화,md3,A: Thank you for your support. B: You're welcome.
+140,감사와 지원에 대한 대화,md3,A: Thank you for your support. B: My pleasure.
+141,축구 클럽 가입에 대한 대화,hi1,A: What about joining a soccer club with me? B: It sounds great. I'd love to join you.
+142,축구 클럽 가입에 대한 대화,hi1,A: Why don't you join a soccer club with me? B: It sounds great. I'd love to join you.
+143,축구 클럽 가입에 대한 대화,hi1,A: Would you like to join a soccer club with me? B: It sounds great. I'd love to join you.
+144,축구 클럽 가입에 대한 대화,hi1,A: What do you think of joining a soccer club with me? B: It sounds great. I'd love to join you.
+145,요일과 일정에 대한 대화,el4,A: What day is it today? B: It’s Friday. A: Good! I have a reading class.
+146,모자에 대한 대화,el4,"여자아이: Is this your cap? 남자아이: No, it isn’t. My cap is red."
+147,케이크 만들기에 대한 대화,el4,A: What are you doing? B: I’m making a cake.
+148,시계의 위치에 대한 대화,el4,A: Where is my watch? B: It’s on the chair.
+149,가방 위치에 대한 대화,el4,A: Where is my bag? B: It’s on the sofa.
+150,로봇에 대한 대화,el4,"G: Is this your robot? B: No, it isn’t. My robot is small."
+151,일상 활동에 대한 대화,el4,여자아이: What are you doing? 남자아이: I’m reading a book. What are you doing? 여자아이: I’m making a cake.  (
+152,놀이와 일에 대한 대화,el4,여자아이: What are you doing? 남자아이: I’m cleaning the room. 여자아이: Let’s play baseball. 남자아이: Sounds good.
+153,수업 일정에 대한 대화,el4,A: What day is it today? B: It’s Wednesday. A: Good! I have a reading class.
+154,장난감에 대한 대화,el4,"A: Is that your toy car? B: No, it isn’t. My toy car is small."
+155,옷 구매에 대한 대화,el4,"A: I want this shirt. How much is it? B: It’s 6,000 won."
+156,가격에 대한 대화,el4,"A: I want this skirt. How much is it? B: It’s 2,000 won."
+157,상품 가격에 대한 대화,el4,A: I want this ribbon. How much is it? B: It’s 700 won.
+158,수면 습관에 대한 대화,md1,Jinho: I can't get up early. Mina: You should go to bed early.
+159,주말 계획에 대한 대화,md1,"Jiho: Amy, what are you going to do this weekend? Amy: I'm going to take some pictures in the park."
+160,장래 희망에 대한 대화,md1,"Jina: What do you want to be in the future, Tom? Tom: I want to be an actor."
+161,요일에 대한 대화,el4,A: What day is it today? B: It’s Sunday.
+162,그림 그리기에 대한 대화,el4,남자아이: What are you doing? 여자아이: I’m drawing a picture.  (
+163,문을 여는 요청에 대한 대화,md1,"Kate: Yena, can you open the door? Yena: Sure."
+164,주말 활동에 대한 대화,md1,"A: Jack, what did you do last weekend? B: I played basketball."
+165,책에 대한 대화,md1,"A: What’s up, Amy? (b) Not much. I’m just reading a book. (a) Is it The Little Prince? (c) Yes. I like reading books, and this is my favorite.
+
+"
+166,운동과 헬스장에 대한 대화,md1,"A: Are you a member at this gym, Amy? (b) Yes, I am. I like working out. (c) How often do you work out?
+ (a) Three times a week. 
+"
+167,친구의 슬픔에 대한 대화,md1,"A: What happened to Sophie? She looks sad. B: She lost her favorite bag.
+"
+168,옷 구매에 대한 대화,el4,"A: I want this coat. How much is it? B: It’s 7,000 won."
+169,드론 수업에 대한 대화,el4,"A: What day is it today? B: It’s Monday. A: Good. I have a drone class.
+"
+170,요리와 장래 희망에 대한 대화,md1,"A: David, what are you making? (b) I’m making pizza and pasta. (a) They look delicious. Are you interested in Italian food? (c) Yes, I am. I want to be a world-famous chef in the future!"
+171,요리와 장래 희망에 대한 대화,md1,"(D) David, what are you making? (B) I’m making pizza and pasta. (A) They look delicious. Are you interested in Italian food? (C) Yes, I am. I want to be a world-famous chef in the future! 
+"
+172,콘서트 경험에 대한 대화,md1,"A: How was the concert last night? B: Great! I enjoyed listening to my favorite songs. 
+"
+173,소원에 대한 대화,md1,"Genie: Hi. Tell me your wishes. Suho: I want a cute dog. Genie: No problem! Suho, I'm going to give you a cute dog. 
+"
+174,범죄 현장 목격에 대한 대화,md1,"A: What did you see? B: A young woman with short red hair was running away from a crime scene.
+"
+175,날짜에 대한 대화,md1,"A: What date is it today? B:It's July 1st.
+"
+176,영화 관람에 대한 대화,md1,"A: What did you do yesterday? B: I watched a movie.
+"
+177,일의 바쁨에 대한 대화,md1,"A: Is he busy? B: Yes, he is.
+"
+178,영어 학습에 대한 대화,md1,"A: What's wrong, Giho? You look sad.  (B) I'm not good at English. What should I do? (C) You should watch movies in English. (A) Okay, I'll try that.
+"
+179,에너지 절약에 대한 대화,hi1,"A: Don’t forget to turn off the projector before leaving the classroom. (A) Do I have to turn it off? (C) I think so because projectors consume a lot of electricity. A: We should give more thought to saving energy. (B) Really? I didn’t know that.
+"
+180,창작과 창의성에 대한 대화,hi1,"A: As a content creator, you seem to have so many ideas for your videos.  I wonder where your creativity comes from. B: I would say it comes from reading books! Reading is like an adventure, and it helps me come up with creative ideas.
+"
+181,주제: 주말 계획에 대한 대화,hi1,"A: What are you going to do this weekend? B: I'm going to go to a concert on Saturday. A: That’s great!
+
+
+"
+182,배구 챔피언십 게임에 대한 대화,hi1,"A: Did you hear about the volleyball championship game tonight? (C) No, I haven’t. Who’s playing? A: I know. They were the worst team last year. I believe this is going to be one interesting game. (B) The Avengers are playing the Hurricanes. (A) Really? I’m surprised that the Avengers are in the championship game.
+"
+183,책 읽기의 이점에 대한 대화,hi1,"A: I wonder what benefits reading books can have in this digital age. B: Well, reading can help expand your imagination. Don’t you agree?
+"
+184,스트레스 해소에 대한 대화,hi1,"A: I’ve been feeling stressed because of tests. B: Why don’t you spend some time with friends? B: That sounds great.
+"
+185,여행에 대한 대화,hi1,"A: Where do you want to go the most? B: I hope I can travel to Peru and visit Machu Picchu one day.
+"
+186,수면 부족과 학업 관리에 대한 대화,hi1,"A: You look tired. Are you sleeping enough these days?  ??2. No, I have been staying up late to finish my homework.  4. Not sleeping enough can make it hard to focus in class. Why don’t you try going to bed earlier?   3. That’s a good idea, but I’m afraid I won’t be able to finish my homework if I go to bed earlier.  1. I understand how you feel. Maybe you should start your work earlier.      B: You’re right. Thanks for your advice.
+"
+187,휴대폰 분실에 대한 대화,md1,"A: Why are you sad? B: I lost my cell phone.
+
+"
+188,고양이의 물에 대한 선호에 대한 대화,md1,"A: Do the cats like water? B: No. They don't like water.
+"
+189,한국 문화에 대한 대화,md1,"A: Tom is going to come Korea tomorrow. B: That’s right. He is interested in learning about Korean culture. 
+"
+190,안부에 대한 대화,el3,G: How are you??B: I’m good.
+191,사물에 대한 대화,el3,G: What’s this? B: It’s a book.
+192,날씨에 대한 대화,el3,G: How’s the weather? B: It’s sunny. 
+193,선호도에 대한 대화,el3,"G: Do you like apples? B: Yes, I do."
+194,자기소개에 대한 대화,el3,B: What's your name. G: I’m Sarah.
+195,선호도에 대한 대화,el3,"B: Do you like broccoli? G: No, I don’t. I don’t like broccoli."
+196,사람을 묘사하는 대화,el3,B: Who is he? G: He’s my brother.
+197,두 사람 모두 할 수 있는 동작을 찾는대화,el3,"B: I can sing. Can you sing? G: Yes, I can. "
+198,능력에 대한 대화,el3,"G: I can’t dance. Can you dance? B: Yes, I can."
+199,소지품에 대한 대화,el3,"B: Do you have a notebook? G: Yes, I do."
+200,수량에 대한 대화,el3,G: How many apples? B: Seven apples.
+201,사물에 대한 대화,el3,B: What’s this? G: It’s a book. 
+202,관찰된 사물에 대한 대화,el3,G: Look! What’s that? B: It’s a dog.
+203,동물에 대한 대화,el3,"G: Is it a cat? B: No, it isn’t. It’s a rabbit. "
+204,색깔에 대한 대화,el3,G: Look at the car. B: What color is it? G: It's red.
+205,사과와 응답에 대한 대화,el3,B: I’m sorry. G: That’s okay.
+206,소지품에 대한 대화,el3,"B: Do you have a ruler? G: No, I don’t. B: Do you have a pen? G: Yes, I do."
+207,동물에 대한 대화,el3,"B: Is it a tiger? G: Yes, it is."
+208,날씨와 활동 계획에 대한 대화,el3,G: How’s the weather? ?B: It’s sunny. Let’s go to the park. ?G: Okay.
+209,가족 구성원에 대한 대화,el3,B: Who is he? G: He’s my uncle. ?B: He’s very tall. Who is she? G: She’s my aunt. ?B: She’s pretty.
